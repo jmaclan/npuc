@@ -69,7 +69,7 @@ a {
     margin: 0 auto;
 }
 
-#content { background: url(../img/waves-bg.png); }
+#content { background-color: #fbf9f3;}
 
 .content-left {
     float: left;
