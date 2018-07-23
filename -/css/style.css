@@ -1606,11 +1606,11 @@ footer {
     input[type=text], textarea, form.large-form input[type=text] { width: 90%; }
     input[type=submit] { margin-top: 0px; }
     #language-picker { left: 18%; }
-    #language-picker li a { color: #438390 !important; }
+    #language-picker li a { color: #2F557F !important; }
 
     #language-picker li a:hover {
         color: #fff !important;
-        background: #438390 !important;
+        background: #2F557F !important;
     }
 }
 
@@ -1652,7 +1652,7 @@ footer {
         padding: 50px 8%;
         border-bottom: 1px solid #f6efdc;
     }
-    .content-slides-content h3 { font-weight: 400; color: #438390; }
+    .content-slides-content h3 { font-weight: 400; color: #2F557F; }
     .content-slides-content p {
         color: #333;
         font: 400 16px/22px 'Merriweather'
