@@ -434,12 +434,13 @@ header#home #logo a { left: 0; }
 }
 
 #home-top-content h2 {
-    font: 600 28px/28px 'Montserrat';
+    font: 600 25px/25px 'Montserrat';
     margin: 0 0 30px;
 }
 
 #home-top-content p {
-    font: 300 22px/30px 'Merriweather';
+    font: 300 16px/25px  'Merriweather';
+    color: #4f5254
 }
 
 .home-section {
@@ -1254,7 +1255,7 @@ footer {
 #footer-top {
     height: 126px;
     font: 400 12px/18px 'Montserrat';
-    color: #d6d1c2;
+    color: #fff;
     background: url(../img/footer-logo.png) no-repeat 0% 50%;
 }
 
