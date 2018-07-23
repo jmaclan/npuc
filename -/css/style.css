@@ -196,7 +196,7 @@ nav a:hover, nav a.active { color: #f9b000; }
     height: 21px;
 }
 #mobile-search-link { display: none; }
-header#home #site-search input { border-color: #438390; }
+header#home #site-search input { border-color: #2F557F; }
 #site-search ::-webkit-input-placeholder { color: #aaa; }
 #site-search :-moz-placeholder { color: #aaa; }
 #site-search ::-moz-placeholder { color: #aaa; }
