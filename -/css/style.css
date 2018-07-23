@@ -1021,7 +1021,7 @@ header#home #logo a { left: 0; }
     left: 0;
     top: 0;
     width: 100%;
-    background: url(../img/right-callout-bg.png) no-repeat bottom left;
+    background-color: #fbf9f3;
     z-index: 1;
 }
 
