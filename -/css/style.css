@@ -141,7 +141,7 @@ nav a:hover, nav a.active { color: #f9b000; }
 
 #utility-nav a {
     font: 600 12px/12px 'Montserrat';
-    color: #438390;
+    color: #2F557F;
     margin: 0 0 0 22px;
     text-decoration: none;
 }
@@ -169,7 +169,7 @@ nav a:hover, nav a.active { color: #f9b000; }
 
 #language-picker li a:hover {
     color: #fff;
-    background: #438390;
+    background: #2F557F;
 }
 
 #mobile-menu {
@@ -384,7 +384,7 @@ header#home #logo a { left: 0; }
     margin: 0 0 30px;
 }
 
-.hero-content.dark h1 { color: #438390; }
+.hero-content.dark h1 { color: #2F557F; }
 
 .hero-video {
     position: absolute;
@@ -430,7 +430,7 @@ header#home #logo a { left: 0; }
 
 #home-top-content {
     padding: 90px 17% 90px 14%;
-    color: #438390;
+    color: #2F557F;
 }
 
 #home-top-content h2 {
@@ -460,7 +460,7 @@ header#home #logo a { left: 0; }
 
 .home-section h3 {
     font: 400 20px/26px 'Merriweather';
-    color: #438390;
+    color: #2F557F;
 }
 
 .home-section p { margin: 0 0 30px; }
@@ -592,7 +592,7 @@ header#home #logo a { left: 0; }
 
 .block h3 {
     font: 400 20px/26px 'Merriweather';
-    color: #438390;
+    color: #2F557F;
 }
 
 .block.first h3 { margin: 0 0 30px; }
@@ -763,7 +763,7 @@ header#home #logo a { left: 0; }
 
 .content h3 {
     font: 400 20px/26px 'Merriweather';
-    color: #438390;
+    color: #2F557F;
     margin: 0 0 45px;
 }
 
@@ -864,7 +864,7 @@ header#home #logo a { left: 0; }
 }
 
 .video-thumb p {
-    color: #438390;
+    color: #2F557F;
     font: 400 12px/15px 'Merriweather';
     margin: 0 0 4px;
 }
@@ -1076,7 +1076,7 @@ header#home #logo a { left: 0; }
 
 .listing-item h5 {
     font: 400 16px/16px 'Merriweather';
-    color: #438390;
+    color: #2F557F;
     margin: 0 0 2px;
 }
 
@@ -1262,7 +1262,7 @@ footer {
     position: relative;
     height: 42px;
     font: 400 10px/42px 'Montserrat';
-    color: #b9b5a8;
+    color: #fff;
 }
 
 .footer-links {
