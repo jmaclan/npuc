@@ -243,8 +243,8 @@ header#home #utility-nav  { right: 0; }
 #logo a {
     position: absolute;
     display: block;
-    width: 324px;
-    height: 80px;
+    width: 356px;
+    height: 111px;
     top: 24.8447205%; /* 40px/161px */
     left: 5%;
     text-decoration: none;
