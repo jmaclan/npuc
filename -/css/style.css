@@ -1017,12 +1017,13 @@ header#home #logo a { left: 0; }
 }
 
 #right-callout-bg {
+	width: 400px !important;
     position: absolute;
     bottom: 0;
     left: 0;
     top: 0;
     width: 100%;
-    background-color: #fbf9f3;
+    background-color: #efe9d7;
     z-index: 1;
 }
 
