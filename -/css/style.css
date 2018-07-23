@@ -525,25 +525,25 @@ header#home #logo a { left: 0; }
 .btn {
     text-decoration: none;
     font: 600 13px/13px 'Montserrat';
-    padding: 4px 10px;
-    border-radius: 4px;
-    color: #f9b000;
-    border: 2px solid #f9b000;
+    padding: 12px 15px;
+    border-radius: 1px;
+    color: #fff;
+    background-color: #f9b000;
+    transition: .5s;
 }
 
 .btn:hover {
-    color: #df9e00;
-    border-color: #df9e00;
+    color: #fff;
+    background-color: #2F557F;
 }
 
 .btn.white {
     color: #fff;
-    border: 2px solid #fff;
 }
 
 .btn.white:hover {
-    color: #f9b000;
-    border-color: #f9b000;
+    color: #fff;
+    background-color: #2F557F;
 }
 
 #hero .btn {
@@ -1011,8 +1011,8 @@ header#home #logo a { left: 0; }
 
 #right-callout a.btn {
     display: inline-block;
-    color: #f9b000;
-    padding: 4px 10px;
+    color: #fff;
+    padding: 9px 12px;
     font: 600 11px/11px 'Montserrat';
 }
 
